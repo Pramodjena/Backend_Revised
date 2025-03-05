@@ -1,0 +1,7 @@
+{
+  "frontend": [
+    { "id": 1, "name": "Pramod", "age": 25, "role": "Frontend-Dev" },
+    { "id": 2, "name": "John Doe", "age": 27, "role": "Frontend-Dev" }
+  ],
+  "backend": [{ "id": 1, "name": "Pramod", "age": 25, "role": "Backend-Dev" }]
+}
